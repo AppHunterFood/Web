@@ -1,5 +1,8 @@
 # Web
-Destina-se a parte web do projeto
+Destina-se a parte web do projeto.
 
-teste
+#Desenvolvido por:
+- Thiago Reis
+- Agostinho 
+
 
